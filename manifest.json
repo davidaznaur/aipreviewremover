@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AI Preview cleaner",
   "version": "1.0",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage", "activeTab"],
   "host_permissions": ["http://google.com/*", "https://goole.com/*"],
   "action": {
     "default_popup": "popup.html"
